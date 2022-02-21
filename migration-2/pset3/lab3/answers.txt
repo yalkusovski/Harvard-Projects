@@ -1,0 +1,17 @@
+sort1 uses: Bubble Sort 
+
+Bubble Sort 
+
+How do you know?: Tested on the sorted text files and it out performed the selection sort.
+
+sort2 uses: Merge Sort
+
+
+How do you know?: I have tested on the reversed .txt and the result showed that it was the fastest. 
+
+sort3 uses: Selection Sort
+
+
+How do you know?: I tested it on sorted data and it showed almos the same time as the sorted and reversed data.
+
+
